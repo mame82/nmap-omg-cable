@@ -20,7 +20,11 @@ in defender controlled networks.
 **In addition, an optional `script-arg` has been introduced, which could remotely
 trigger the self destruct functionality of the cable after enumerstion.**
 
-See `notes.md` for further details.
+See `notes.md` for additional protocol/API details further details.
+
+## demo video
+
+[![nmap video demo](https://img.youtube.com/vi/0CGpxQB8P-4/0.jpg)](https://youtu.be/0CGpxQB8P-4)
 
 ## install
 
